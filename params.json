@@ -1,6 +1,6 @@
 {
-  "name": "Dotnetdevs.GitHub.io",
-  "tagline": "",
-  "body": "# DotNetDevs.github.io",
+  "name": ".NET Developers",
+  "tagline": ".NET Developers Projects",
+  "body": "# .NET Developers #\r\n\r\n## Synology API .NET Wrappers ##\r\nYou can discover about the Synology project [here](http://dotnetdevs.github.io/Synology/)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
